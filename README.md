@@ -14,7 +14,6 @@
 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens">
 <img src="https://img.shields.io/badge/-NPM-CB1800?style=flat&logo=npm&logoColor=white">
