@@ -21,16 +21,8 @@
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-React_Router-CA4245?style=flate&logo=react-router&logoColor=white">
-<img src="https://img.shields.io/badge/-Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/-Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e">
-<img src="https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
